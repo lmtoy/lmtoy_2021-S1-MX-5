@@ -1,5 +1,5 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
-100632 EW scanning
-100633 NS scanning
+100632 ~EW scanning
+100633 ~NS scanning
 
